@@ -481,18 +481,16 @@ h6,
 #header3-f H3 {
   font-size: 32px;
 }
+#social-buttons4-m .mbr-section-title,
+#social-buttons4-m .btn-social {
+  color: #fff;
+}
 #gallery4-5 LI {
   color: #efefef;
 }
-#msg-box3-b .mbr-section-title,
-#msg-box3-b p {
-  color: #000;
-}
-#msg-box3-b .mbr-section-title {
-  color: #ffffff;
-}
-#msg-box3-b .lead P {
-  color: #efefef;
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
 }
 #form2-8 .mbr-section-title {
   color: #fff;
