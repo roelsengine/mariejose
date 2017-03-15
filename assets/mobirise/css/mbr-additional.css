@@ -1,9 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -85,13 +83,13 @@ h6,
   background-color: #bffa00 !important;
 }
 .bg-info {
-  background-color: #03001e !important;
+  background-color: #040118 !important;
 }
 .bg-warning {
   background-color: #fac51c !important;
 }
 .bg-danger {
-  background-color: #f28281 !important;
+  background-color: #2969b0 !important;
 }
 .btn-primary {
   background-color: #c0a375;
@@ -134,8 +132,8 @@ h6,
   border-color: #94ada8 !important;
 }
 .btn-info {
-  background-color: #03001e;
-  border-color: #03001e;
+  background-color: #040118;
+  border-color: #040118;
   color: #ffffff;
 }
 .btn-info:hover,
@@ -194,8 +192,8 @@ h6,
   border-color: #c59704 !important;
 }
 .btn-danger {
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #2969b0;
+  border-color: #2969b0;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -204,14 +202,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #eb3d3c;
-  border-color: #eb3d3c;
+  background-color: #1b4472;
+  border-color: #1b4472;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #eb3d3c !important;
-  border-color: #eb3d3c !important;
+  background-color: #1b4472 !important;
+  border-color: #1b4472 !important;
 }
 .btn-primary-outline {
   background: none;
@@ -264,14 +262,14 @@ h6,
 .btn-info-outline:active,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #03001e;
-  border-color: #03001e;
+  background-color: #040118;
+  border-color: #040118;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #03001e !important;
-  border-color: #03001e !important;
+  background-color: #040118 !important;
+  border-color: #040118 !important;
 }
 .btn-success-outline {
   background: none;
@@ -315,8 +313,8 @@ h6,
 }
 .btn-danger-outline {
   background: none;
-  border-color: #e82625;
-  color: #e82625;
+  border-color: #16385d;
+  color: #16385d;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -324,14 +322,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #f28281;
-  border-color: #f28281;
+  background-color: #2969b0;
+  border-color: #2969b0;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #f28281 !important;
-  border-color: #f28281 !important;
+  background-color: #2969b0 !important;
+  border-color: #2969b0 !important;
 }
 .text-primary {
   color: #c0a375 !important;
@@ -340,25 +338,25 @@ h6,
   color: #bffa00 !important;
 }
 .text-info {
-  color: #03001e !important;
+  color: #040118 !important;
 }
 .text-warning {
   color: #fac51c !important;
 }
 .text-danger {
-  color: #f28281 !important;
+  color: #2969b0 !important;
 }
 .alert-success {
   background-color: #bffa00;
 }
 .alert-info {
-  background-color: #03001e;
+  background-color: #040118;
 }
 .alert-warning {
   background-color: #fac51c;
 }
 .alert-danger {
-  background-color: #f28281;
+  background-color: #2969b0;
 }
 .btn-social {
   border-color: #c0a375;
@@ -398,7 +396,7 @@ h6,
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #9084ff;
+  color: #9384fa;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -406,7 +404,7 @@ h6,
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #79aae0;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
@@ -480,25 +478,31 @@ h6,
 }
 #header3-f H3 {
   font-size: 32px;
+  color: #ffffff;
 }
 #social-buttons4-m .mbr-section-title,
 #social-buttons4-m .btn-social {
   color: #fff;
 }
+#social-buttons4-m .mbr-section-title SPAN {
+  font-size: 32px;
+}
 #gallery4-5 LI {
   color: #efefef;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s H3 {
+  color: #000000;
+}
+#content1-r P {
+  color: #000000;
 }
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
   text-align: center;
-}
-#form2-8 .mbr-section-title {
-  color: #fff;
-}
-#form2-8 .mbr-section-subtitle {
-  color: #ffffff;
-  font-size: 36px;
-  font-family: 'Open Sans', sans-serif;
 }
 #social-buttons4-7 .mbr-section-title,
 #social-buttons4-7 .btn-social {
