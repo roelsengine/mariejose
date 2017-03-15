@@ -478,14 +478,8 @@ h6,
 }
 #header3-f H3 {
   font-size: 32px;
-  color: #ffffff;
-}
-#social-buttons4-m .mbr-section-title,
-#social-buttons4-m .btn-social {
-  color: #fff;
-}
-#social-buttons4-m .mbr-section-title SPAN {
-  font-size: 32px;
+  color: #000000;
+  text-align: right;
 }
 #gallery4-5 LI {
   color: #efefef;
