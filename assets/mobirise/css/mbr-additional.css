@@ -481,6 +481,12 @@ h6,
   color: #000000;
   text-align: right;
 }
+#form2-t .mbr-section-title {
+  color: #fff;
+}
+#form2-t .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #gallery4-5 LI {
   color: #efefef;
 }
